@@ -1,0 +1,85 @@
+{
+    "planetsInfo": [{
+            "id": 0,
+            "name": "MERCURY",
+            "overview": "The smallest planet in our solar system and nearest to the Sun,Mercury is only slightly larger than Earth's Moon.From the surface of Mercury,the Sun would appear more than three times as large as it does when viewed from Earth and the sunlight would be as much as seven times brighter",
+            "rotationTime": "58 DAYS",
+            "revolutionTime": "88 DAYS",
+            "radius": "2,439.7 km",
+            "temperature": "−173 to 427 °C",
+            "image": "/img/mercury.png"
+        },
+        {
+            "id": 1,
+            "name": "VENUS",
+            "overview": "Venus spins slowly in the opposite direction from most planets.A thick atmosphere traps heat in a runaway greenhouse effect, making it the hottest planet in our solar system.",
+            "rotationTime": "116d 18h",
+            "revolutionTime": "225 DAYS",
+            "radius": "6,051.8 km",
+            "temperature": "470 °C",
+            "image": "/img/venus.png"
+        },
+        {
+            "id": 2,
+            "name": "EARTH",
+            "overview": "Earth—our home planet—is the only place we know of so far that’s inhabited by living things. It's also the only planet in our solar system with liquid water on the surface.",
+            "rotationTime": "23 HOURS,56 MINUTES",
+            "revolutionTime": "365 DAYS",
+            "radius": "6,371 km",
+            "temperature": "15 °C",
+            "image": "/img/worldwide.png"
+        },
+        {
+            "id": 3,
+            "name": "MARS",
+            "overview": "Mars is a dusty, cold, desert world with a very thin atmosphere. There is strong evidence Mars was—billions of years ago—wetter and warmer, with a thicker atmosphere.",
+            "rotationTime": "1.03 DAYS",
+            "revolutionTime": "1.88 YEARS",
+            "radius": "3,389.5 km",
+            "temperature": "-81 °C",
+            "image": "/img/mars.png"
+        },
+
+        {
+            "id": 4,
+            "name": "JUPITER",
+            "overview": "Jupiter is more than twice as massive than the other planets of our solar system combined. The giant planet's Great Red spot is a centuries-old storm bigger than Earth.",
+            "rotationTime": "10 HOURS",
+            "revolutionTime": "4,333 DAYS",
+            "radius": "4,690.4 km",
+            "temperature": "-81 °C",
+            "image": "/img/jupiter.png"
+        },
+        {
+            "id": 5,
+            "name": "SATURN",
+            "overview": "Adorned with a dazzling, complex system of icy rings, Saturn is unique in our solar system. The other giant planets have rings, but none are as spectacular as Saturn's",
+            "rotationTime": "0.45 DAYS",
+            "revolutionTime": "10,423 DAYS",
+            "radius": "58,232 km",
+            "temperature": "178 °C",
+            "image": "/img/saturn.png"
+        },
+        {
+            "id": 6,
+            "name": "URANUS",
+            "overview": "Uranus—seventh planet from the Sun—rotates at a nearly 90-degree angle from the plane of its orbit. This unique tilt makes Uranus appear to spin on its side.",
+            "rotationTime": "17 HOURS",
+            "revolutionTime": "30,687 DAYS",
+            "radius": "25,362 km",
+            "temperature": "-233 °C",
+            "image": "/img/uranus.png"
+        },
+        {
+            "id": 7,
+            "name": "NEPTUNE",
+            "overview": "Mars is a dusty, cold, desert world with a very thin atmosphere. There is strong evidence Mars was—billions of years ago—wetter and warmer, with a thicker atmosphere.",
+            "rotationTime": "16.1 HOURS",
+            "revolutionTime": "60,190 DAYS",
+            "radius": "24,622 km",
+            "temperature": "-200 °C",
+            "image": "/img/neptune.png"
+        }
+
+    ]
+}

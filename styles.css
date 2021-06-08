@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(19, 16, 26);
+    background-size: cover;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: rgb(19, 16, 26);
+    padding: 3rem;
+    margin: 0;
+    padding: 2rem
+}
+
+.parts {
+    margin-left: 38rem;
+}
+
+.planets {
+    margin-top: 7rem;
+    height: 80%;
+    border-radius: 50%;
+    border: 20px dashed black;
+}
+
+.planet-img {
+    height: 70%;
+    margin: 2rem;
+}
+
+h1,
+h5,
+p {
+    color: rgb(201, 201, 201);
+}
+
+.overview {
+    margin-top: -4rem;
+    letter-spacing: 0.1rem;
+    color: rgb(201, 201, 201);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.overview p {
+    width: 80%;
+}
+
+.characteristics {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem;
+}
+
+.characteristic {
+    border: 1px solid rgb(201, 201, 201);
+    margin: 0.5rem;
+    padding: 1rem 1.5rem 1rem 1.5rem;
+    width: 40%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.banner {
+    display: flex;
+    flex-direction: column;
+}
